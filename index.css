@@ -1,0 +1,18 @@
+textarea {
+    width: 40%;
+    height: 200px; /* Adjust as needed */
+    padding: 10px;
+    font-size: 16px;
+    line-height: 1.6;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-top: 15px;
+    resize: none; 
+    box-sizing: border-box; /* Include padding and border in element's total width and height */
+  }
+  .form-group{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   }
+  
